@@ -13,6 +13,8 @@ title = "EcoFuture"
   # Enable search in header
   enableSearch = true
 
+  avatar = "image/profile_pic.png"
+
   # Custom copyright - optional
   copyright = "Copyright © 2021 - EcoFuture · All rights reserved"
   favicon = "favicon.svg"
@@ -25,7 +27,7 @@ title = "EcoFuture"
 [params.homepage]
   title = "Hey! Welcome To EcoFuture"
   description = "26 y/o junior developer who enjoys social card games, blogging and painting"
-  photo = "/picture.jpg"
+  photo = "image/profile_pic.png"
 
 [params.homepage.social]
   title = "Follow me"
