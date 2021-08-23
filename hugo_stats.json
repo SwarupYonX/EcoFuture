@@ -37,7 +37,12 @@
       "border-transparent",
       "capitalize",
       "close-search",
+      "com",
+      "comt",
+      "comten",
+      "con",
       "container",
+      "content",
       "cursor-pointer",
       "dark:bg-gray-800",
       "dark:bg-gray-900",
@@ -126,7 +131,9 @@
       "w-full"
     ],
     "ids": [
-      "more-about-me"
+      "main",
+      "more-about-me",
+      "title"
     ]
   }
 }
