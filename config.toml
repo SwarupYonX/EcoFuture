@@ -26,7 +26,7 @@ title = "EcoFuture"
 
 [params.homepage]
   title = "Hey! Welcome To EcoFuture"
-  description = "26 y/o junior developer who enjoys social card games, blogging and painting"
+  description = "22 y/o junior developer who enjoys social card games, blogging and painting"
   photo = "image/profile_pic.png"
 
 [params.homepage.social]
